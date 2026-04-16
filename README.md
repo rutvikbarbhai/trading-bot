@@ -59,4 +59,4 @@ logging
 
 ## Author
 
-Shalmali Bichkar# trading-bot
+Shalmali Bichkar
