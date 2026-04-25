@@ -102,12 +102,12 @@ logs/app.log
 ### ⚠️ Disclaimer
 
 This project is intended for educational and testing purposes only.
-It uses the Binance Futures Testnet, not real funds.
-Trading in live markets involves financial risk.
+- It uses the Binance Futures Testnet, not real funds.
+- Trading in live markets involves financial risk.
 
 
-## Author
+### 👤 Developers 
 Shalmali Bichkar
 
-### Open Source Contributer
-@rutvik_barbhai
+### <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contributing
+@rutvik barbhai
