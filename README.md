@@ -37,7 +37,7 @@ Supports multiple order types with validation, logging, and clean architecture.
 
 ### 1️⃣ Clone the Repository   
 ```bash
-git clone <your-repo-url>
+git clone rutvikbarbhai/trading-bot
 cd trading_bot
 ```
 ### 2️⃣ Create a virtual Environment 
